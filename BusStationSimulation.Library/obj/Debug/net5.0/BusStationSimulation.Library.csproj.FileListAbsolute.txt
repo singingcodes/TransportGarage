@@ -1,0 +1,12 @@
+C:\Users\GREAT\Desktop\C# Assignment\TransportGarage\BusStationSimulation.Library\bin\Debug\net5.0\BusStationSimulation.Library.deps.json
+C:\Users\GREAT\Desktop\C# Assignment\TransportGarage\BusStationSimulation.Library\bin\Debug\net5.0\BusStationSimulation.Library.dll
+C:\Users\GREAT\Desktop\C# Assignment\TransportGarage\BusStationSimulation.Library\bin\Debug\net5.0\ref\BusStationSimulation.Library.dll
+C:\Users\GREAT\Desktop\C# Assignment\TransportGarage\BusStationSimulation.Library\bin\Debug\net5.0\BusStationSimulation.Library.pdb
+C:\Users\GREAT\Desktop\C# Assignment\TransportGarage\BusStationSimulation.Library\obj\Debug\net5.0\BusStationSimulation.Library.csprojAssemblyReference.cache
+C:\Users\GREAT\Desktop\C# Assignment\TransportGarage\BusStationSimulation.Library\obj\Debug\net5.0\BusStationSimulation.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GREAT\Desktop\C# Assignment\TransportGarage\BusStationSimulation.Library\obj\Debug\net5.0\BusStationSimulation.Library.AssemblyInfoInputs.cache
+C:\Users\GREAT\Desktop\C# Assignment\TransportGarage\BusStationSimulation.Library\obj\Debug\net5.0\BusStationSimulation.Library.AssemblyInfo.cs
+C:\Users\GREAT\Desktop\C# Assignment\TransportGarage\BusStationSimulation.Library\obj\Debug\net5.0\BusStationSimulation.Library.csproj.CoreCompileInputs.cache
+C:\Users\GREAT\Desktop\C# Assignment\TransportGarage\BusStationSimulation.Library\obj\Debug\net5.0\BusStationSimulation.Library.dll
+C:\Users\GREAT\Desktop\C# Assignment\TransportGarage\BusStationSimulation.Library\obj\Debug\net5.0\ref\BusStationSimulation.Library.dll
+C:\Users\GREAT\Desktop\C# Assignment\TransportGarage\BusStationSimulation.Library\obj\Debug\net5.0\BusStationSimulation.Library.pdb
